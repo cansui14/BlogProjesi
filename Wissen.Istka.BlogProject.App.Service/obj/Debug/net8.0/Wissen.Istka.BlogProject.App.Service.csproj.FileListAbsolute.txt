@@ -1,0 +1,17 @@
+C:\ISTKA-Yaz-2-Projects\AspNetCoreMVC\Wissen.Istka.BlogProject.App\Wissen.Istka.BlogProject.App.Service\bin\Debug\net8.0\Wissen.Istka.BlogProject.App.Service.deps.json
+C:\ISTKA-Yaz-2-Projects\AspNetCoreMVC\Wissen.Istka.BlogProject.App\Wissen.Istka.BlogProject.App.Service\bin\Debug\net8.0\Wissen.Istka.BlogProject.App.Service.dll
+C:\ISTKA-Yaz-2-Projects\AspNetCoreMVC\Wissen.Istka.BlogProject.App\Wissen.Istka.BlogProject.App.Service\bin\Debug\net8.0\Wissen.Istka.BlogProject.App.Service.pdb
+C:\ISTKA-Yaz-2-Projects\AspNetCoreMVC\Wissen.Istka.BlogProject.App\Wissen.Istka.BlogProject.App.Service\bin\Debug\net8.0\Wissen.Istka.BlogProject.App.DataAccess.dll
+C:\ISTKA-Yaz-2-Projects\AspNetCoreMVC\Wissen.Istka.BlogProject.App\Wissen.Istka.BlogProject.App.Service\bin\Debug\net8.0\Wissen.Istka.BlogProject.App.Entity.dll
+C:\ISTKA-Yaz-2-Projects\AspNetCoreMVC\Wissen.Istka.BlogProject.App\Wissen.Istka.BlogProject.App.Service\bin\Debug\net8.0\Wissen.Istka.BlogProject.App.DataAccess.pdb
+C:\ISTKA-Yaz-2-Projects\AspNetCoreMVC\Wissen.Istka.BlogProject.App\Wissen.Istka.BlogProject.App.Service\bin\Debug\net8.0\Wissen.Istka.BlogProject.App.Entity.pdb
+C:\ISTKA-Yaz-2-Projects\AspNetCoreMVC\Wissen.Istka.BlogProject.App\Wissen.Istka.BlogProject.App.Service\obj\Debug\net8.0\Wissen.Istka.BlogProject.App.Service.csproj.AssemblyReference.cache
+C:\ISTKA-Yaz-2-Projects\AspNetCoreMVC\Wissen.Istka.BlogProject.App\Wissen.Istka.BlogProject.App.Service\obj\Debug\net8.0\Wissen.Istka.BlogProject.App.Service.GeneratedMSBuildEditorConfig.editorconfig
+C:\ISTKA-Yaz-2-Projects\AspNetCoreMVC\Wissen.Istka.BlogProject.App\Wissen.Istka.BlogProject.App.Service\obj\Debug\net8.0\Wissen.Istka.BlogProject.App.Service.AssemblyInfoInputs.cache
+C:\ISTKA-Yaz-2-Projects\AspNetCoreMVC\Wissen.Istka.BlogProject.App\Wissen.Istka.BlogProject.App.Service\obj\Debug\net8.0\Wissen.Istka.BlogProject.App.Service.AssemblyInfo.cs
+C:\ISTKA-Yaz-2-Projects\AspNetCoreMVC\Wissen.Istka.BlogProject.App\Wissen.Istka.BlogProject.App.Service\obj\Debug\net8.0\Wissen.Istka.BlogProject.App.Service.csproj.CoreCompileInputs.cache
+C:\ISTKA-Yaz-2-Projects\AspNetCoreMVC\Wissen.Istka.BlogProject.App\Wissen.Istka.BlogProject.App.Service\obj\Debug\net8.0\Wissen.I.4BF87F62.Up2Date
+C:\ISTKA-Yaz-2-Projects\AspNetCoreMVC\Wissen.Istka.BlogProject.App\Wissen.Istka.BlogProject.App.Service\obj\Debug\net8.0\Wissen.Istka.BlogProject.App.Service.dll
+C:\ISTKA-Yaz-2-Projects\AspNetCoreMVC\Wissen.Istka.BlogProject.App\Wissen.Istka.BlogProject.App.Service\obj\Debug\net8.0\refint\Wissen.Istka.BlogProject.App.Service.dll
+C:\ISTKA-Yaz-2-Projects\AspNetCoreMVC\Wissen.Istka.BlogProject.App\Wissen.Istka.BlogProject.App.Service\obj\Debug\net8.0\Wissen.Istka.BlogProject.App.Service.pdb
+C:\ISTKA-Yaz-2-Projects\AspNetCoreMVC\Wissen.Istka.BlogProject.App\Wissen.Istka.BlogProject.App.Service\obj\Debug\net8.0\ref\Wissen.Istka.BlogProject.App.Service.dll

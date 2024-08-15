@@ -1,0 +1,11 @@
+C:\ISTKA-Yaz-2-Projects\AspNetCoreMVC\Wissen.Istka.BlogProject.App\Wissen.Istka.BlogProject.App.Entity\bin\Debug\net8.0\Wissen.Istka.BlogProject.App.Entity.deps.json
+C:\ISTKA-Yaz-2-Projects\AspNetCoreMVC\Wissen.Istka.BlogProject.App\Wissen.Istka.BlogProject.App.Entity\bin\Debug\net8.0\Wissen.Istka.BlogProject.App.Entity.dll
+C:\ISTKA-Yaz-2-Projects\AspNetCoreMVC\Wissen.Istka.BlogProject.App\Wissen.Istka.BlogProject.App.Entity\bin\Debug\net8.0\Wissen.Istka.BlogProject.App.Entity.pdb
+C:\ISTKA-Yaz-2-Projects\AspNetCoreMVC\Wissen.Istka.BlogProject.App\Wissen.Istka.BlogProject.App.Entity\obj\Debug\net8.0\Wissen.Istka.BlogProject.App.Entity.GeneratedMSBuildEditorConfig.editorconfig
+C:\ISTKA-Yaz-2-Projects\AspNetCoreMVC\Wissen.Istka.BlogProject.App\Wissen.Istka.BlogProject.App.Entity\obj\Debug\net8.0\Wissen.Istka.BlogProject.App.Entity.AssemblyInfoInputs.cache
+C:\ISTKA-Yaz-2-Projects\AspNetCoreMVC\Wissen.Istka.BlogProject.App\Wissen.Istka.BlogProject.App.Entity\obj\Debug\net8.0\Wissen.Istka.BlogProject.App.Entity.AssemblyInfo.cs
+C:\ISTKA-Yaz-2-Projects\AspNetCoreMVC\Wissen.Istka.BlogProject.App\Wissen.Istka.BlogProject.App.Entity\obj\Debug\net8.0\Wissen.Istka.BlogProject.App.Entity.csproj.CoreCompileInputs.cache
+C:\ISTKA-Yaz-2-Projects\AspNetCoreMVC\Wissen.Istka.BlogProject.App\Wissen.Istka.BlogProject.App.Entity\obj\Debug\net8.0\Wissen.Istka.BlogProject.App.Entity.dll
+C:\ISTKA-Yaz-2-Projects\AspNetCoreMVC\Wissen.Istka.BlogProject.App\Wissen.Istka.BlogProject.App.Entity\obj\Debug\net8.0\refint\Wissen.Istka.BlogProject.App.Entity.dll
+C:\ISTKA-Yaz-2-Projects\AspNetCoreMVC\Wissen.Istka.BlogProject.App\Wissen.Istka.BlogProject.App.Entity\obj\Debug\net8.0\Wissen.Istka.BlogProject.App.Entity.pdb
+C:\ISTKA-Yaz-2-Projects\AspNetCoreMVC\Wissen.Istka.BlogProject.App\Wissen.Istka.BlogProject.App.Entity\obj\Debug\net8.0\ref\Wissen.Istka.BlogProject.App.Entity.dll
